@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T11:39:42.741Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="ParlsbSGz4t3qvfS7uPQ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-03T11:40:24.874Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="AsU6MzBB1auvGKl5pwMB" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -206,7 +206,7 @@
         <mxCell id="k3FIcXS15pAJ1C6iBXqW-59" value="选中本地vue文件" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k3FIcXS15pAJ1C6iBXqW-63" value="生成对应id的数字对象" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="k3FIcXS15pAJ1C6iBXqW-63" value="生成对应id的数组对象" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="970" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k3FIcXS15pAJ1C6iBXqW-65" value="刷新预览页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -234,7 +234,7 @@
         <mxCell id="k3FIcXS15pAJ1C6iBXqW-75" value="清除历史记录" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k3FIcXS15pAJ1C6iBXqW-77" value="清除当前对象" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="k3FIcXS15pAJ1C6iBXqW-77" value="清除当前id数组对象" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
