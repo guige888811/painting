@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-03T11:34:40.343Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="-nDEJVpqRqA0X8vSTt2C" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-03T11:35:35.267Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="QakVC-gFvvLOdk2OVrfb" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2249" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -197,6 +197,9 @@
         <mxCell id="k3FIcXS15pAJ1C6iBXqW-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3FIcXS15pAJ1C6iBXqW-58" target="k3FIcXS15pAJ1C6iBXqW-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k3FIcXS15pAJ1C6iBXqW-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k3FIcXS15pAJ1C6iBXqW-58" target="k3FIcXS15pAJ1C6iBXqW-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k3FIcXS15pAJ1C6iBXqW-58" value="输入本地地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="90" width="120" height="60" as="geometry" />
         </mxCell>
@@ -208,6 +211,9 @@
         </mxCell>
         <mxCell id="k3FIcXS15pAJ1C6iBXqW-63" value="生成对应id的数字对象" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;glass=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="970" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3FIcXS15pAJ1C6iBXqW-65" value="刷新预览页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
